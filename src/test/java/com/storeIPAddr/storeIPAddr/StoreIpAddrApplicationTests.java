@@ -1,10 +1,10 @@
-package com.getIP.Test1;
+package com.storeIPAddr.storeIPAddr;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GetIpApplicationTests {
+class StoreIpAddrApplicationTests {
 
 	@Test
 	void contextLoads() {
